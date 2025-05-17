@@ -8,6 +8,8 @@
             <class name="com.thetestingacademy.tests.e2e_integration.TestIntegrationFlow1"/>
             <class name="com.thetestingacademy.tests.e2e_integration.TestIntegrationFlow2"/>
             <class name="com.thetestingacademy.tests.e2e_integration.TestIntegrationFlow3"/>
+            <class name="com.thetestingacademy.tests.e2e_integration.TestIntegrationFlow4"/>
+            <class name="com.thetestingacademy.tests.e2e_integration.TestIntegrationFlow5"/>
         </classes>
     </test>
 </suite>
