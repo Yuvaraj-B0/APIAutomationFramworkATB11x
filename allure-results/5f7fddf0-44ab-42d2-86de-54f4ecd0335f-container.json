@@ -1,0 +1,1 @@
+{"uuid":"5f7fddf0-44ab-42d2-86de-54f4ecd0335f","name":"APIAutomationFramworkATB11x","children":["cdf4ad59-86ab-4e9e-8586-502fd22179d6"],"befores":[{"name":"createToken","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1747361583218,"stop":1747361585977}],"afters":[],"start":1747361583218,"stop":1747361586327}

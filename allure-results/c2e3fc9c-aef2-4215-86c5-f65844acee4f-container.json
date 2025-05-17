@@ -1,0 +1,1 @@
+{"uuid":"c2e3fc9c-aef2-4215-86c5-f65844acee4f","name":"com.thetestingacademy.tests.crud.TestCreateToken","children":["c2554053-40e7-4eeb-8324-30e86b29a708"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1747161999911,"stop":1747161999912}],"afters":[],"start":1747161994195,"stop":1747162001105}

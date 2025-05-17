@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/Beqisoft/Automation_LA/APIAutomationFramworkATB11x">
+        <classes>
+            <class name="com.thetestingacademy.tests.crud.TestCreateToken"/>
+            <class name="com.thetestingacademy.tests.crud.TestCreateBooking"/>
+            <class name="com.thetestingacademy.tests.e2e_integration.TestIntegrationFlow1"/>
+            <class name="com.thetestingacademy.tests.e2e_integration.TestIntegrationFlow2"/>
+            <class name="com.thetestingacademy.tests.e2e_integration.TestIntegrationFlow3"/>
+        </classes>
+    </test>
+</suite>
